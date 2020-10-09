@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-securitycenter/#history
 
+### [1.0.1](https://www.github.com/googleapis/python-securitycenter/compare/v1.0.0...v1.0.1) (2020-10-09)
+
+
+### Documentation
+
+* update documentation on severity ([#72](https://www.github.com/googleapis/python-securitycenter/issues/72)) ([4ba96b2](https://www.github.com/googleapis/python-securitycenter/commit/4ba96b268d92eb57b816593b1fb968f269ed188e))
+
 ## [1.0.0](https://www.github.com/googleapis/python-securitycenter/compare/v0.7.1...v1.0.0) (2020-10-08)
 
 
